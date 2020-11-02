@@ -1,5 +1,3 @@
-PLEASE NOTE: This assignment is a work-in-process at this time. Thank you.
-
 ## Web-Design-Challenge
 
 Latitude - Latitude Analysis Dashboard with Attitude
